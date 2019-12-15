@@ -1,0 +1,19 @@
+
+psquid:S00116"XRename this field "txt_cart_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä√…º
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(˜âÓÉ
+?squid:S1481>"(Remove this unused "fmt" local variable.(Ü°„»
+nsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á∞‡Á¯ˇˇˇˇ
+â"squid:ClassVariableVisibilityCheck"VMake parentView a static final constant or non-public and provide accessors if needed.(œœÓﬁ¯ˇˇˇˇ
+Csquid:S1068",Remove this unused "activity" private field.(†ß∂ﬁ
+Vsquid:UselessImportCheck"3Remove this unused import 'android.content.Intent'.(≥ãG
+á"squid:ClassVariableVisibilityCheck"YMake txt_cart_name a static final constant or non-public and provide accessors if needed.(ä√…º
+à"squid:ClassVariableVisibilityCheck"ZMake img_cart_count a static final constant or non-public and provide accessors if needed.(∑‰ç¿
+Xsquid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(© âË
+lsquid:S00116"TRename this field "txt_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä√…º
+É"squid:ClassVariableVisibilityCheck"UMake txt_price a static final constant or non-public and provide accessors if needed.(ä√…º
+qsquid:S00116"YRename this field "img_cart_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(∑‰ç¿
+Nsquid:S1854>"7Remove this useless assignment to local variable "fmt".(Ü°„»
+bsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(ïÀ´◊
+isquid:S00117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ã≥Ó
+ysquid:UselessImportCheck"URemove this unused import 'com.group.project.restaurantbuddy.ui.ItemDetailsActivity'.(∆ÏÚú
+>squid:S1659"'Declare "txt_price" on a separate line.(ä√…º

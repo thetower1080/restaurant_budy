@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/payment"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    android:divider="@color/menu_items_description"
+    android:showDividers="middle">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/menu_recycler_padding_sides"
+        android:paddingRight="@dimen/menu_recycler_padding_sides">
+
+        <TextView
+            android:id="@+id/payment_total"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:textColor="@color/menu_items_description"
+            android:textSize="20dp"
+            android:text="Total: $0"/>
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/menu_recycler_padding_sides"
+        android:paddingRight="@dimen/menu_recycler_padding_sides">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/menu_items_description"
+            android:textSize="@dimen/menu_item_title_size"
+            android:text="Payment Methods"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/menu_recycler_padding_sides"
+        android:paddingRight="@dimen/menu_recycler_padding_sides">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:adjustViewBounds="true"
+            app:srcCompat="@drawable/ic_google_pay_mark_800_gray"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="25dp"
+            android:paddingRight="170dp"
+            android:text="Google Pay"
+            android:textColor="@color/menu_items_description"
+            android:textSize="@dimen/menu_item_title_size" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:adjustViewBounds="true"
+            app:srcCompat="@drawable/ic_chevron_right_black_24dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/menu_recycler_padding_sides"
+        android:paddingRight="@dimen/menu_recycler_padding_sides">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:adjustViewBounds="true"
+            app:srcCompat="@drawable/ic_venmo_logo_blue"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="25dp"
+            android:paddingRight="170dp"
+            android:text="Venmo        "
+            android:textColor="@color/menu_items_description"
+            android:textSize="@dimen/menu_item_title_size" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:adjustViewBounds="true"
+            app:srcCompat="@drawable/ic_chevron_right_black_24dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/menu_recycler_padding_sides"
+        android:paddingRight="@dimen/menu_recycler_padding_sides">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:adjustViewBounds="true"
+            app:srcCompat="@drawable/ic_paypal_seeklogo"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="25dp"
+            android:paddingRight="170dp"
+            android:text="Paypal        "
+            android:textColor="@color/menu_items_description"
+            android:textSize="@dimen/menu_item_title_size" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:adjustViewBounds="true"
+            app:srcCompat="@drawable/ic_chevron_right_black_24dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/menu_recycler_padding_sides"
+        android:paddingRight="@dimen/menu_recycler_padding_sides">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:adjustViewBounds="true"
+            app:srcCompat="@drawable/ic_credit_card_black_24dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="25dp"
+            android:paddingRight="170dp"
+            android:text="Credit Card"
+            android:textColor="@color/menu_items_description"
+            android:textSize="@dimen/menu_item_title_size" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:adjustViewBounds="true"
+            app:srcCompat="@drawable/ic_chevron_right_black_24dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

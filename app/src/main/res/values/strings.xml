@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Restaurant Buddy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Restaurant Buddy</string>
+    <string name="nav_header_subtitle">The easy way to eat</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_talk">Talk</string>
+    <string name="menu_pay">Pay</string>
+    <string name="menu_food">Menu</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_sign">Sign</string>
+    <string name="title_activity_sign_up">SignUp</string>
+
+    <string name="title_activity_request">RequestActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="request">Request</string>
+    <string name="title_activity_request2">Request2Activity</string>
+
+    <string name="fork">Fork</string>
+
+    <string name="spoons">Spoons</string>
+    
+    
+    <string-array name="tableNumbers">
+        <item>Table 1</item>
+        <item>Table 2</item>
+        <item>Table 3</item>
+        <item>Table 4</item>
+        <item>Table 5</item>
+        <item>Table 5</item>
+    </string-array>
+
+    <string name="please_request_an_item_from_the_buttons_below_or_make_a_custom_request">Please request an item from the buttons below or make a custom request.</string>
+
+    <string name="other">Other</string>
+    <string name="water">Water</string>
+    <string name="knife">Knife</string>
+    <string name="salt">Salt</string>
+    <string name="spoon">Spoon</string>
+    <string name="refill">Refill</string>
+    <string name="napkins">Napkins</string>
+    <string name="custom_request">Custom Request</string>
+    <string name="please_enter_custom_request">Please enter custom request</string>
+    <string name="please_select_one_of_the_options_below_or_create_your_own_custom_request">Please select one of the options below or create your own custom request.</string>
+    <string name="picture">Picture</string>
+    <string name="title_activity_main_page_botton_nav">MainPage_botton_nav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="num_items">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>

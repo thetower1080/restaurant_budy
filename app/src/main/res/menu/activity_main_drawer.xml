@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_open_menu"
+            android:icon="@drawable/ic_restaurant_menu_black_24dp"
+            android:title="@string/menu_food" />
+
+        <item
+            android:id="@+id/nav_sign"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/menu_sign" />
+
+        <item
+            android:id="@+id/mainReservation"
+            android:icon="@drawable/ic_event_note_black_24dp"
+            android:title="Reserve" />
+
+        <item
+            android:id="@+id/nav_request"
+            android:icon="@drawable/hotel_chef_icons_83240"
+            android:title="Request Items"/>
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/menu_share" />
+        <item
+            android:id="@id/payment"
+            android:icon="@drawable/ic_payment_black_24dp"
+            android:title="Payment"/>
+
+
+
+
+    </group>
+</menu>

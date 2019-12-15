@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1012765162492",
+    "firebase_url": "https://propane-girder-259722.firebaseio.com",
+    "project_id": "propane-girder-259722",
+    "storage_bucket": "propane-girder-259722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012765162492:android:a589f4938474a3e0ca5079",
+        "android_client_info": {
+          "package_name": "com.group.project.restaurantbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012765162492-vbtod74sh7gi7a1slfhd53iqnmq86q06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.group.project.restaurantbuddy",
+            "certificate_hash": "421c67e23bcde08b6f1d73540172ebfccfb66eb9"
+          }
+        },
+        {
+          "client_id": "1012765162492-hk8msu0idfhouqavnkni83n1r2co71nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqteU-xjjjhaZrwbZSSf2Q0PyjJdZWgiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012765162492-hk8msu0idfhouqavnkni83n1r2co71nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

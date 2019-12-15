@@ -1,0 +1,17 @@
+
+osquid:UselessImportCheck"KRemove this unused import 'com.google.android.gms.common.api.ApiException'.(šÄØ‚
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+gsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(¤Çá¨øÿÿÿÿ
+bsquid:UselessImportCheck">Remove this unused import 'com.google.android.gms.tasks.Task'.(¦âÏô
+„squid:UselessImportCheck"`Remove this unused import 'com.google.android.libraries.places.api.net.FindCurrentPlaceRequest'.(á´¸
+gsquid:UselessImportCheck">Remove this unused import 'android.content.pm.PackageManager'.(€®¥õÿÿÿÿÿ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+isquid:UselessImportCheck	"@Remove this unused import 'androidx.core.content.ContextCompat'.(üäÂùÿÿÿÿ
+ysquid:UselessImportCheck"URemove this unused import 'com.google.android.libraries.places.api.net.PlacesClient'.(Á‰‡
+[squid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+gsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(ÜÓûÿÿÿÿ
+osquid:UselessImportCheck"KRemove this unused import 'com.google.android.libraries.places.api.Places'.(ëçöœ
+Vsquid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
+gsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(–ÜŞÏıÿÿÿÿ
+ƒsquid:UselessImportCheck"ZRemove this unused import 'com.google.android.libraries.places.api.model.PlaceLikelihood'.(†›ğÑüÿÿÿÿ
+…squid:UselessImportCheck"aRemove this unused import 'com.google.android.libraries.places.api.net.FindCurrentPlaceResponse'.(Ø«³ÿ
